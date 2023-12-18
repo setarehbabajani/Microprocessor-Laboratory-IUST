@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>11</LINE></MAIN>
+  <OC1Aaddr_ROUTINE><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>121</LINE></OC1Aaddr_ROUTINE>
+  <BEGIN><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>31</LINE></BEGIN>
+  <BEGIN1><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>46</LINE></BEGIN1>
+  <SET_TIMER><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>58</LINE></SET_TIMER>
+  <Y1><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>76</LINE></Y1>
+  <CNVRT><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>158</LINE></CNVRT>
+  <DELAY><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>146</LINE></DELAY>
+  <SET_VALUE><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>115</LINE></SET_VALUE>
+  <Y2><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>143</LINE></Y2>
+  <L1><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>147</LINE></L1>
+  <L2><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>148</LINE></L2>
+  <L3><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>149</LINE></L3>
+  <C1><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>164</LINE></C1>
+  <C2><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>169</LINE></C2>
+  <C3><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>174</LINE></C3>
+  <C4><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>179</LINE></C4>
+  <C5><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>184</LINE></C5>
+  <C6><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>189</LINE></C6>
+  <C7><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>194</LINE></C7>
+  <C8><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>199</LINE></C8>
+  <C9><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>204</LINE></C9>
+  <C10><FILE>E:\neg\term7\Az Rizpardazandeh\Setareh_Babajani_HW3_99521109\az3.asm</FILE><LINE>208</LINE></C10>
+ </LABELS>
+</ASSEMBLER_INFO>

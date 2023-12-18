@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:577BB700
+NODE:I LEVEL:0 LINE:23 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:30 "clock -> RAM:????"
+NODE:F LEVEL:0 LINE:32 "increase_clock(void)"
+NODE:F LEVEL:0 LINE:83 "display_clock(void)"
+NODE:F LEVEL:0 LINE:110 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:116 "main(void)"
